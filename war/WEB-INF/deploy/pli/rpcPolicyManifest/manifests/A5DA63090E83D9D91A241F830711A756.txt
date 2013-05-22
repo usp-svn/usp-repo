@@ -1,0 +1,2 @@
+serviceClass: net.webHMI.pli.client.PLIService
+path: 7A9B0A180927CAB3E4074449016FA3D8.gwt.rpc

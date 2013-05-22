@@ -1,0 +1,4 @@
+# Module pli
+# RPC service class, partial path of RPC policy file
+com.google.gwt.logging.shared.RemoteLoggingService, CE18CF7C7088FCD25ACC685CF4BAE60B.gwt.rpc
+net.webHMI.pli.client.PLIService, 7A9B0A180927CAB3E4074449016FA3D8.gwt.rpc
