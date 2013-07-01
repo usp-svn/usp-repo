@@ -1,7 +1,5 @@
 package net.webHMI.pli.server;
 
-//test
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
